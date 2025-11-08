@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|c:\\users\\lehuu\\desktop\\finalproject_oop_23110026 (11)_23110068 (35)\\student_ms - backup (current)\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editstudentuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editstudentuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\edittuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:edittuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\edittuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:edittuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\adminresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:adminresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\adminresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:adminresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editlectureruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editlectureruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editlectureruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editlectureruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studentresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studentresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editstudentuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editstudentuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\adminhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:adminhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\adminhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:adminhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\salaryuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:salaryuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\salaryuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:salaryuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\lecturerresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:lecturerresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\lecturerresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:lecturerresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studenttuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studenttuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\editcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:editcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\lecturerhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:lecturerhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\lecturerhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:lecturerhomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studenttuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studenttuitionuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studentresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studentresultuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studentcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studentcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studentcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studentcourseuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studenthomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studenthomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\studenthomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:studenthomeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\classes\\tuition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1F787E-85C1-4081-AA32-E66C451C58F7}|STUDENT_MS.csproj|solutionrelative:classes\\tuition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:19:10.434Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAwwJ4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:05:16.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Modify.cs",
+              "RelativeDocumentMoniker": "Modify.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Modify.cs",
+              "RelativeToolTip": "Modify.cs",
+              "ViewState": "AgIAABkEAAAAAAAAAAAUwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:53:49.923Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditLecturerUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditLecturerUC.cs",
+              "RelativeDocumentMoniker": "EditLecturerUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditLecturerUC.cs",
+              "RelativeToolTip": "EditLecturerUC.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:32:37.318Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "ClassDiagram.cd",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\ClassDiagram.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-03T05:59:35.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditLecturerUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditLecturerUC.cs",
+              "RelativeDocumentMoniker": "EditLecturerUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\EditLecturerUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:32:34.276Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditStudentUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditStudentUC.cs",
+              "RelativeDocumentMoniker": "EditStudentUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditStudentUC.cs",
+              "RelativeToolTip": "EditStudentUC.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:35:07.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentResultUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentResultUC.cs",
+              "RelativeDocumentMoniker": "StudentResultUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentResultUC.cs",
+              "RelativeToolTip": "StudentResultUC.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:55:49.436Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:21:04.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:02:52.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTuitionUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditTuitionUC.cs",
+              "RelativeDocumentMoniker": "EditTuitionUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditTuitionUC.cs",
+              "RelativeToolTip": "EditTuitionUC.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:48:12.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalaryUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\SalaryUC.cs",
+              "RelativeDocumentMoniker": "SalaryUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\SalaryUC.cs",
+              "RelativeToolTip": "SalaryUC.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:31:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditCourseUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditCourseUC.cs",
+              "RelativeDocumentMoniker": "EditCourseUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditCourseUC.cs",
+              "RelativeToolTip": "EditCourseUC.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:20:11.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LecturerHomeUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerHomeUC.cs",
+              "RelativeDocumentMoniker": "LecturerHomeUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerHomeUC.cs",
+              "RelativeToolTip": "LecturerHomeUC.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:17:40.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentTuitionUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentTuitionUC.cs",
+              "RelativeDocumentMoniker": "StudentTuitionUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentTuitionUC.cs",
+              "RelativeToolTip": "StudentTuitionUC.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:15:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditStudentUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditStudentUC.cs",
+              "RelativeDocumentMoniker": "EditStudentUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\EditStudentUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:35:04.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Salary.cs",
+              "RelativeDocumentMoniker": "Classes\\Salary.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Salary.cs",
+              "RelativeToolTip": "Classes\\Salary.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:45:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Classes\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Lecturer.cs",
+              "RelativeToolTip": "Classes\\Lecturer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:02:22.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Student.cs",
+              "RelativeDocumentMoniker": "Classes\\Student.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Student.cs",
+              "RelativeToolTip": "Classes\\Student.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:09:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Classes\\Person.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Person.cs",
+              "RelativeToolTip": "Classes\\Person.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:09:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminResultUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminResultUC.cs",
+              "RelativeDocumentMoniker": "AdminResultUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminResultUC.cs",
+              "RelativeToolTip": "AdminResultUC.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAQwG0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:18:47.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminResultUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminResultUC.cs",
+              "RelativeDocumentMoniker": "AdminResultUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\AdminResultUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:17:31.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Admin.cs",
+              "RelativeDocumentMoniker": "Classes\\Admin.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Admin.cs",
+              "RelativeToolTip": "Classes\\Admin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:48:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentResultUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentResultUC.cs",
+              "RelativeDocumentMoniker": "StudentResultUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\StudentResultUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:55:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Interface.cs",
+              "RelativeDocumentMoniker": "Classes\\Interface.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Interface.cs",
+              "RelativeToolTip": "Classes\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:56:56.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentCourseUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentCourseUC.cs",
+              "RelativeDocumentMoniker": "StudentCourseUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentCourseUC.cs",
+              "RelativeToolTip": "StudentCourseUC.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA/wG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:26:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentHomeUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentHomeUC.cs",
+              "RelativeDocumentMoniker": "StudentHomeUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentHomeUC.cs",
+              "RelativeToolTip": "StudentHomeUC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:26:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentCourseUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentCourseUC.cs",
+              "RelativeDocumentMoniker": "StudentCourseUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\StudentCourseUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:55:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentHomeUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentHomeUC.cs",
+              "RelativeDocumentMoniker": "StudentHomeUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\StudentHomeUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:55:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Classes\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\StudentCourse.cs",
+              "RelativeToolTip": "Classes\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:59:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwFsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:27:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\DGVPrinter.cs",
+              "RelativeToolTip": "DGVPrinter.cs",
+              "ViewState": "AgIAANQIAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:49:58.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LecturerResultUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerResultUC.cs",
+              "RelativeDocumentMoniker": "LecturerResultUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerResultUC.cs",
+              "RelativeToolTip": "LecturerResultUC.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:17:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:25:42.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminHomeUC.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminHomeUC.cs",
+              "RelativeDocumentMoniker": "AdminHomeUC.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminHomeUC.cs",
+              "RelativeToolTip": "AdminHomeUC.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:26:38.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminHomeUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\AdminHomeUC.cs",
+              "RelativeDocumentMoniker": "AdminHomeUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\AdminHomeUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:18:43.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LecturerResultUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerResultUC.cs",
+              "RelativeDocumentMoniker": "LecturerResultUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\LecturerResultUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:17:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalaryUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\SalaryUC.cs",
+              "RelativeDocumentMoniker": "SalaryUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\SalaryUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:22:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LecturerHomeUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\LecturerHomeUC.cs",
+              "RelativeDocumentMoniker": "LecturerHomeUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\LecturerHomeUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:17:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentTuitionUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\StudentTuitionUC.cs",
+              "RelativeDocumentMoniker": "StudentTuitionUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\StudentTuitionUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:17:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Tuition.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Tuition.cs",
+              "RelativeDocumentMoniker": "Classes\\Tuition.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\Classes\\Tuition.cs",
+              "RelativeToolTip": "Classes\\Tuition.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:48:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditTuitionUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditTuitionUC.cs",
+              "RelativeDocumentMoniker": "EditTuitionUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\EditTuitionUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:17:35.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditCourseUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\FinalProject_OOP_23110026 (11)_23110068 (35)\\STUDENT_MS - BACKUP (current)\\EditCourseUC.cs",
+              "RelativeDocumentMoniker": "EditCourseUC.cs",
+              "ToolTip": "E:\\OOP\\STUDENT_MS - BACKUP (current)\\EditCourseUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:26:22.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

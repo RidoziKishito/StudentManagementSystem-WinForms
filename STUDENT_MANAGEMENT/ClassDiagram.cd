@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="STUDENT_MS.AdminHomeUC" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQGAAAIAACAAAAAQAISECIECADAABEgQABAABAgACBg=</HashCode>
+      <FileName>AdminHomeUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.AdminResultUC" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAQCAAAAggAgCiIAACACAAIAAAAAAAAAKAAAA=</HashCode>
+      <FileName>AdminResultUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.AppContext">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Admin">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Admin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="STUDENT_MS.Course">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAEBAAFBAAAAQSAAAAEgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Lecturer">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIEAIAABACAAAAAYAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Lecturer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="STUDENT_MS.Person">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAAAIwAQACAAEAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>Classes\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="STUDENT_MS.Salary">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Student">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAACAAAgAAAAYAAAAAAAAAAAEAAgABAAIAA=</HashCode>
+      <FileName>Classes\Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="STUDENT_MS.StudentCourse">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAEAAAAAEBAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\StudentCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Tuition">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAACAAAAAgQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Classes\Tuition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Connection">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.EditCourseUC" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAgCSAAAAAAAIDAEAgCAAAgMAAAQABBAgAACBA=</HashCode>
+      <FileName>EditCourseUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.EditLecturerUC" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAwhCDBogAAgQoSAAAACAGAAcwAIAAAgAAAwCBA=</HashCode>
+      <FileName>EditLecturerUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.EditStudentUC" Collapsed="true">
+    <Position X="14.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAoAEQhCDAAgEAoQoCQAACCAGAAMgAIAIAgAAEgCBA=</HashCode>
+      <FileName>EditStudentUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.EditTuitionUC" Collapsed="true">
+    <Position X="16.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAgACDIAAAAAAqCAAAACAAAAAgAAAAAYAAAAAAA=</HashCode>
+      <FileName>EditTuitionUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.LecturerHomeUC" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABgCAAAACAAAAAAABAAAAAAgAAAA=</HashCode>
+      <FileName>LecturerHomeUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.LecturerResultUC" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgQAAACCEAQAggAICiIIQOAKCAMAAABAAAAAIAEgA=</HashCode>
+      <FileName>LecturerResultUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.LoginForm" Collapsed="true">
+    <Position X="14.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQQQAQACAAIZAoAAikABAKAAAAAEwCBAAAAAADCAI=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.MainForm" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQClAQIwACAAIgBMAQmlEFkLJC4wACAAQAAiABBBAQI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Modify">
+    <Position X="7" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>KBAAEIAAQAAggACoAEMBBACBCAEAAgABABoCyCAgBVA=</HashCode>
+      <FileName>Modify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Program" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.SalaryUC" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAABAAAgCAAAACAAAAAAAAAIgQAAAEAAA=</HashCode>
+      <FileName>SalaryUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwIAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACCAgQwIEQYJABAEIQQAwAAgCQBhAAgAAEAEAJlA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet2" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwIAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.StudentCourseUC" Collapsed="true">
+    <Position X="16.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAQACAAAAAAAICBAAACAAAAMAAAAACCABAAeBA=</HashCode>
+      <FileName>StudentCourseUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.StudentHomeUC" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABACAIAACAAAAAAAAAAAAAAgEAAA=</HashCode>
+      <FileName>StudentHomeUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.StudentResultUC" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQAAAACAAQAAAAgCCIAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StudentResultUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.StudentTuitionUC" Collapsed="true">
+    <Position X="14.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAkAACIAABIAAiCAAIACAAAAAEAAAIAAAAAQEAA=</HashCode>
+      <FileName>StudentTuitionUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.LogManager" Collapsed="true">
+    <Position X="16.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAgAEAIAAAAAAAAAQAAgBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.LogWriter" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.DGVCellDrawingEventArgs" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAgAAAAAAAAAACQAAAAAAIAAAEAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.Extensions" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.DGVPrinter" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.RowHeightSetting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.Alignment" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.SizeType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.DGVPrinter.PrintDialogSettingsClass" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.ColumnWidthSetting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.DGVPrinter.rowdata" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.paging" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.DGVPrinter.ImbeddedImage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.Location" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.DGVPrinter.PageDef" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.DGVPrinter.PrintLocation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DGVPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>3l8qd9+X8t/kaFBjS+oO7skhbCrxPjww/j3/2N2C1m8=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Properties.Resources" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.Properties.Settings" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSetTableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABAJAEBAAAAMAAgABACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.LecturerTableAdapter" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.LecturerCourseTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.SalaryTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="21.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.StudentCourseTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.TuitionTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="16.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwEAACAECABAJAUNAEAAMAAgABACgAAAASYBAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet2TableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="20" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="STUDENT_MS.STUDENT_MSDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABAJAEBAAAAMAAgABACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="STUDENT_MS.IShow">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Interface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="DGVPrinterHelper.CellOwnerDrawEventHandler" Collapsed="true">
+    <Position X="14.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

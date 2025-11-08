@@ -1,0 +1,38 @@
+E:\OOP\STUDENT_MS\bin\Debug\STUDENT_MS.exe.config
+E:\OOP\STUDENT_MS\bin\Debug\STUDENT_MS.exe
+E:\OOP\STUDENT_MS\bin\Debug\STUDENT_MS.pdb
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.csproj.AssemblyReference.cache
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.LoginForm.resources
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.MainForm.resources
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.Properties.Resources.resources
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.SignUpForm.resources
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.csproj.GenerateResource.cache
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.csproj.CoreCompileInputs.cache
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.exe
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.pdb
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.SCourseUC.resources
+E:\OOP\STUDENT_MS\obj\Debug\STUDENT_MS.InputStudentForm.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.csproj.AssemblyReference.cache
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.LecturerResultUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.LoginForm.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.MainForm.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.Properties.Resources.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.EditCourseUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.StudentCourseUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.StudentHomeUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.StudentResultUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.StudentTuitionUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.csproj.GenerateResource.cache
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.csproj.CoreCompileInputs.cache
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.exe
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.pdb
+E:\OOP\STUDENT_MS - BACKUP (current)\bin\Debug\STUDENT_MS.exe.config
+E:\OOP\STUDENT_MS - BACKUP (current)\bin\Debug\STUDENT_MS.exe
+E:\OOP\STUDENT_MS - BACKUP (current)\bin\Debug\STUDENT_MS.pdb
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.LecturerHomeUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.SalaryUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.AdminHomeUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.AdminResultUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.EditLecturerUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.EditStudentUC.resources
+E:\OOP\STUDENT_MS - BACKUP (current)\obj\Debug\STUDENT_MS.EditTuitionUC.resources
